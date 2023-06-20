@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Tamizaje y atención de personas con riesgo alto frente al consumo, abuso y adicción a SPA',
+    descripcionCurso:
+      'La atención de personas con riesgo a SPA permite identificar, apropiar e implementar pruebas de tamizaje que posibilitan realizar intervenciones breves, desde la óptica de la promoción de la salud y la prevención de la enfermedad, de tal forma que el trabajador pueda proponer acciones encaminadas a prevenir, reducir y llegado el caso educar sobre el consumo de sustancias psicoactivas.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,13 +33,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Escalas de Tamizaje',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Tipos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Objetivos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Escala Carlos CRAFFT',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'ASSIST',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'APGAR FAMILIAR',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'AUDIT',
+            hash: 't_1_6',
           },
         ],
       },
@@ -45,14 +72,107 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Prevención y atención del consumo de SPA ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Prevención',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Mitigación',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Superación',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Capacidad de respuesta',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo:
+              'Exigencia y garantía de derechos en salud para personas consumidoras de SPA',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Intervención breve ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Objetivos específicos ',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Elementos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3.1',
+            titulo: 'Objetivo',
+            hash: 't_3_3_1',
+          },
+          {
+            numero: '3.3.2',
+            titulo: 'Rueda de Cambio',
+            hash: 't_3_3_2',
+          },
+          {
+            numero: '3.3.3',
+            titulo: 'Estadiar',
+            hash: 't_3_3_3',
+          },
+          {
+            numero: '3.3.4',
+            titulo: 'Determinación',
+            hash: 't_3_3_4',
+          },
+          {
+            numero: '3.3.5',
+            titulo: 'Acción',
+            hash: 't_3_3_5',
+          },
+          {
+            numero: '3.3.6',
+            titulo: 'Mantenimiento',
+            hash: 't_3_3_6',
+          },
+          {
+            numero: '3.3.7',
+            titulo: 'Estrategias para desarrollar la entrevista motivacional',
+            hash: 't_3_3_7',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Entornos protectores',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Cómo fortalecerlos ',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Estrategias de intervención individual y colectiva',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -97,32 +217,88 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '1. Escalas de Tamizaje',
+      referencia:
+        'Organización Panamericana de Salud (s.f.). Módulo 2: Tamizaje, Intervención Breve y Entrevista Motivacional.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/presentacion-tamizaje.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema:
+        '2. Prevención, mitigación, superación y capacidad de respuesta, ejes del Gobierno para combatir el consumo de drogas en Colombia',
+      referencia:
+        'Ministerio de salud (2012). Prevención, mitigación, superación y capacidad de respuesta, ejes del Gobierno para combatir el consumo de drogas en Colombia.',
+      tipo: 'Artículo',
+      link:
+        'https://www.minsalud.gov.co/Paginas/Prevenci%C3%B3n,%20mitigaci%C3%B3n,%20superaci%C3%B3n%20y%20capacidad%20de%20respuesta,%20ejes%20del%20Gobierno%20para%20combatir%20el%20consumo%20de%20drogas%20en%20Colomb.aspx',
+    },
+    {
+      tema: '3. Prevención y atención del consumo de SPA',
+      referencia:
+        'Ministerio de Salud y Protección Social (2.019). Política Integral para la Prevención y Atención del Consumo de Sustancias Psicoactivas.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-prevencion-atencion-spa.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'SPA',
+      significado: 'Sustancias PsicoActivas',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Estadío',
+      significado: 'etapa',
+    },
+    {
+      termino: 'APGAR',
+      significado: 'prueba de tamizaje que evalúa la familia como sistema.',
+    },
+    {
+      termino: 'Escalas de tamizaje',
+      significado:
+        'son herramientas e instrumentos que permiten conocer si una persona se encuentra en riesgo de algún padecimiento, enfermedad o trastorno.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Defensoría del pueblo. (2012). Anotaciones Ley 1566 de 31 de julio de 2012.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/GCFI/1566%20SPA_10_04_2013.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud. (2017). Plan nacional para la promoción de la salud, la prevención, y la atención del consumo de sustancias psicoactivas 2014 – 2021.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/plan-nacional-consumo-alcohol-2014-2021.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud. (2015). Orientaciones para el desarrollo de las actividades de tamizaje en el marco del Plan de Salud Pública de Intervenciones Colectivas – PIC. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/orientaciones-tamizaje-pic.pdf',
+    },
+    {
+      referencia:
+        'Miller, W.R. y Rollnick, S (1991). Motivacional Interwing. People to change addictive behavior. Nueva York: Guilford (traducción al español, Barcelona: Paidós ,1999.',
+    },
+    {
+      referencia:
+        'Ministerio de Salud (2019). Política Integral para la Prevención y Atención del Consumo de Sustancias Psicoactivas Ministerio de Salud y Protección Social - Resolución 089 de 2019',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-prevencion-atencion-spa.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud (2022). Prevención, mitigación, superación y capacidad de respuesta, ejes para combatir el consumo de drogas. ',
+      link:
+        'https://www.minsalud.gov.co/salud/Paginas/Prevencion-mitigacion-superacion-capacidad-de-respuesta-ejes-para-combatir-el-consumo-de-drogas.aspx',
+    },
+    {
+      referencia:
+        'Vicente E. (2014). Manual para la evaluación clínica de los trastornos psicológicos. Director ediciones pirámide páginas 35-45. Madrid.',
     },
   ],
   creditos: [
@@ -135,9 +311,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -145,9 +321,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Sonia Margarita Leal Cruz',
+          cargo: 'Experta Técnica',
+          centro:
+            'Regional Distrito Capital Centro de Formación de Talento Humano en Salud.',
+        },
+        {
+          nombre: 'Claudia Milena Hernández Naranjo',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial.',
+        },
+        {
+          nombre: 'Humberto Arias Díaz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Rafael Neftali Lizcano Reyes',
+          cargo: 'Responsable Equipo de Desarrollo Curricular.',
+          centro:
+            'Regional Santander Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología.',
+        },
+        {
+          nombre: 'Maria Inés Machado López',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -155,19 +358,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Aruzidna Sánchez Alonso',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Davison Gaitán Escobar',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -175,14 +393,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
