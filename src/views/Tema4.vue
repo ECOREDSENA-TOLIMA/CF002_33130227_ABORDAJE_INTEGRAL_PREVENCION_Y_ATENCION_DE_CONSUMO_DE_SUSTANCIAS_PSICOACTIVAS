@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
+        span 4
       h1 Entornos protectores
 
     p(data-aos="zoom-in") Según las soluciones 3202 de 2015 y 3280 de 2018, los ámbitos son situaciones de la vida en los que los sujetos se desenvuelven, cimenta su historia subjetiva, sus interrelaciones con la vida social, histórica, cultural y política a la que le compete. Unen además plataformas virtuales, entendidas como ambientes interactivos que permiten un ingreso ilimitado a un diverso tipo de información y a vínculos que tienen la posibilidad de producir componentes protectores y/o de peligro gracias a las diversas probabilidades de contacto que dan las tecnologías de la información y comunicaciones.
