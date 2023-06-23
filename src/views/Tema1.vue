@@ -279,7 +279,7 @@
       .col-12.col-md-10(data-aos="fade-left")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img16.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img17.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-0(data-aos="zoom-in") <b>Para tener en cuenta</b>

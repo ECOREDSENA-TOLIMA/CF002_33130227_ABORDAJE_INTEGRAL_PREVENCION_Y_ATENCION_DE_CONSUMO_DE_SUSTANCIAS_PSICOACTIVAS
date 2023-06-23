@@ -13,7 +13,7 @@
     .col-12.mt-2(data-aos="fade-up")
       figure.mt-0
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/NaoMfuuuJks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/c-EVNv3qO0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -140,7 +140,7 @@
           .row.justify-content-center.mb-5.mt-5.align-items-center
             .col-lg-6.mb-5
               h4.text-center.texto-blanco Meta
-              p.text-center.mb-0.texto-blanco concertar un plan de acción para ser desarrollado a corto plazo.
+              p.text-center.mb-0.texto-blanco Concertar un plan de acción para ser desarrollado a corto plazo.
         
     p(data-aos="zoom-in") Aunque la persona se haya decidido a comenzar el cambio, la ambivalencia no suele estar plenamente resuelta. Se ha de sortear que las prisas y los triunfos arrojen el proceso natural y se acuerda hacer una evaluación sobre el tamaño y el grado de compromiso para el cambio:
 
@@ -176,7 +176,7 @@
           .row.justify-content-center.mb-5.mt-5.align-items-center
             .col-lg-6.mb-5
               h4.text-center.texto-blanco Meta
-              p.text-center.mb-0.texto-blanco iniciar el plan y conseguir cambiar la costumbre.
+              p.text-center.mb-0.texto-blanco Iniciar el plan y conseguir cambiar la costumbre.
 
     p(data-aos="zoom-in") Se debe establecer un nuevo procedimiento de conducta por un periodo significativo de tiempo (meses) y reevaluar cada cierto tiempo cambios y posibles inconvenientes que vayan surgiendo. Se ha de incrementar el sentimiento de autoeficacia y de automotivación del paciente y prometiendo información sobre otros modelos que hayan tenido éxito. 
     p(data-aos="zoom-in") Tanto en esta fase como en la siguiente hay que estar muy atentos para suministrar apoyo, si fuera necesario, y reducir la frecuencia de las recaídas mediante un análisis de disposiciones precipitantes e iniciando a instaurar habilidades de afrontamiento.
@@ -201,7 +201,7 @@
           .row.justify-content-center.mb-5.mt-5.align-items-center
             .col-8.mb-5
               h4.text-center.texto-blanco Meta
-              p.text-center.mb-0.texto-blanco sustentar el cambio y consolidar la nueva costumbre a largo plazo. Posterior a un primer lapso de cambio, en que está crecida la emoción de autoeficacia, surge una crisis de distinta vehemencia en cada individuo.
+              p.text-center.mb-0.texto-blanco Sustentar el cambio y consolidar la nueva costumbre a largo plazo. Posterior a un primer lapso de cambio, en que está crecida la emoción de autoeficacia, surge una crisis de distinta vehemencia en cada individuo.
 
     p(data-aos="zoom-in") En esta crisis suele pasar por la añoranza del placer afiliado a el comportamiento que está abandonando o por la sensación de vacío que queda tras remover esa conducta. Uno de los puntos cruciales de esta fase va a ser minimizar las caídas y recaídas en el hábito. Para advertir los deslices y tentaciones, se debe examinar los desempeños y situaciones de elevado peligro e instruir y efectuar capacidades de tolerar para consolidar la nueva conducta, conteniendo una estrategia de emergencia para esos instantes en los cuales la recaída es básicamente inminente.
 
