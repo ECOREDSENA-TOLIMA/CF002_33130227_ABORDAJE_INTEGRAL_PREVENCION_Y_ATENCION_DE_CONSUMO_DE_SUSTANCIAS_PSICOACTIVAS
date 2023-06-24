@@ -214,7 +214,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Ofrecer información y aconsejar")
         .col-md-9.col-12.mb-4.mb-md-0
-          p se debe dar información clara y objetiva, indicarle precisamente que debería dejar de consumir. Es elemental que identifique el problema y los peligros que tiene, explicarle ya que la necesidad de cambio y facilitarle la alternativa del cambio terapéutico.
+          p Se debe dar información clara y objetiva, indicarle precisamente que debería dejar de consumir. Es elemental que identifique el problema y los peligros que tiene, explicarle ya que la necesidad de cambio y facilitarle la alternativa del cambio terapéutico.
 
       .row(titulo="Borrar Obstáculos")
         .col-md-9.col-12.mb-4.mb-md-0

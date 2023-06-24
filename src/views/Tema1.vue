@@ -81,7 +81,7 @@
               p Es importante que revele también la necesidad de otra prueba o de una intervención posterior a las realizadas.
           .row(numero="6" titulo="Alcance")
             .col
-              p características de sensibilidad (capacidad para determinar quienes tienen problemas con las drogas) y especificidad  (para revelar quienes no tienen problemas).
+              p Características de sensibilidad (capacidad para determinar quienes tienen problemas con las drogas) y especificidad  (para revelar quienes no tienen problemas).
           .row(numero="7" titulo="Confianza")
             .col
               p Finalmente, estas pruebas deben enfocarse en permitir espacios de diálogo y confianza para ofrecer mejores condiciones.
