@@ -69,15 +69,29 @@
               p Que el paciente entienda que el cambio está en lo que es su decisión. 
 
     Separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 3.3 Entrevista motivacional de intervención
+
+    
+    .row.align-items-end.mt-5
+      .col-md-5.col-12
+        figure(data-aos="zoom-out")
+          img(src="@/assets/curso/temas/tema3/imagen_aj1.png", alt="")
+      .col-6.col-md-7(data-aos="zoom-in")
+        p En los últimos años se ha ido generalizando la entrevista motivacional. La motivación para el cambio es un aspecto importante que se debe proponer a partir del primer instante que el sujeto entra a la consulta. Puesto que justamente en los individuos dependientes de alcohol o alguna sustancia psicoactiva es bastante recurrente que en la primera sesión una sección de ellos no acepte el problema y lo considere como algo “normal” y gracias a esto no hay razón para dejarlo o peor todavía ni siquiera contemplan la probabilidad de minimizar el consumo.
+        p Si no se tiene un paciente motivado para el cambio, quizá no vuelva a otra sesión o abandone muy pronto el proceso.
+
+
+    Separador
     #t_3_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.3.1  Objetivo
 
     p(data-aos="zoom-in") La entrevista motivacional tiene como objetivo principal asistir directamente al individuo, centrarse en él para generar una transformación o cambio de la conducta, de manera que le contribuya a la exploración y la resolución de ambivalencias. Sienta sus bases fundamentales en el respeto a la autonomía, la solidaridad en cooperar con el paciente y recordar cuáles son sus motivaciones al cambio. Para lograrlo permite la expresión empática, posibilita que aparezcan desacuerdos, se adelanta con las resistencias y posibilita la auto efectividad. 
-    p(data-aos="zoom-in") Deben utilizarse herramientas puntuales de la entrevista con el fin de alentar a los pacientes a verbalizar, a indagar su ambivalencia acerca del consumo de sustancias y a tener claridad acerca de sus motivaciones para reducir o dejar de consumir. En los pacientes con criterio de riesgo, pero sin dependencia se deben utilizar tratamiento que incluya técnicas cognitivo-conductuales. 
+    p(data-aos="zoom-in") Deben utilizarse herramientas puntuales de la entrevista con el fin de alentar a los pacientes a verbalizar, a indagar su ambivalencia acerca del consumo de sustancias y a tener claridad acerca de sus motivaciones para reducir o dejar de consumir. En los pacientes con criterio de riesgo, pero sin dependencia, se deben utilizar tratamiento que incluya técnicas cognitivo-conductuales. 
 
     Separador
     #t_3_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.2. Rueda de Cambio
+      h2 3.3.2 Rueda de cambio
 
     p(data-aos="zoom-in") Para iniciar con una intervención, en primer lugar, tendríamos que parar a analizar en qué etapa del cambio se encuentra el paciente. Las fases del cambio son las siguientes: 
 
@@ -111,9 +125,9 @@
 
     Separador
     #t_3_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.3. Estadiar
+      h2 3.3.3 Estadiar
 
-    p(data-aos="zoom-in") La responsabilidad que tiene en el entorno clínico este modelo es clave pues le da un papel importante al reconocimiento del estadio en el cual se halla el paciente, debido a que esto va a decidir qué técnica debería usar en terapia el psicólogo. Las primeras fases necesitan procedimientos de corte motivacional mientras que en etapas posteriores se usará el procedimiento cognitivo-conductuales para lograr el cambio.
+    p(data-aos="zoom-in") La responsabilidad que tiene en el entorno clínico este modelo es clave pues le da un papel importante al reconocimiento del estadio en el cual se halla el paciente, debido a que esto va a decidir qué técnica debería usar en terapia el psicólogo. Las primeras fases necesitan procedimientos de corte motivacional, mientras que en etapas posteriores se usará el procedimiento cognitivo-conductuales para lograr el cambio.
 
     .row.align-items-end.mt-5
       .col-6
@@ -126,7 +140,7 @@
 
     Separador
     #t_3_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.4. Determinación
+      h2 3.3.4 Determinación
 
     p(data-aos="zoom-in") El cliente apropia un compromiso para llevar a la acción de cambiar el hábito, desplegando un plan terapéutico. 
 
@@ -161,7 +175,7 @@
 
     Separador
     #t_3_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.5. Acción
+      h2 3.3.5 Acción
 
     p(data-aos="zoom-in") Se determina por la implementación del plan de acción. El cliente da pasos para cambiar costumbres y comienza a crear uno nuevo. 
 
@@ -183,11 +197,11 @@
 
     Separador
     #t_3_3_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.6. Mantenimiento
+      h2 3.3.6 Mantenimiento
 
     p(data-aos="zoom-in") El individuo está en estadio de mantenimiento una vez que ha permanecido abstinente un lapso mayor a los 6 meses. Las personas ejecutan las tácticas (procesos de cambio) elementales encaminadas a prevenir la recaída, y de esta manera afianzar los ingresos obtenidos en la etapa anterior.
-    p(data-aos="zoom-in") La mayor parte de la población no cambia un comportamiento crónico siguiendo un patrón de cambio lineal, a partir del estadio de pre contemplación hasta el mantenimiento, tal y como se pensó en su primer instante el cambio por medio de los estadios involucra un modelo en espiral.
-    p(data-aos="zoom-in") Este es el campo en el cual el nuevo modelo de conducta permanece por un largo lapso de tiempo estabilizándose dentro del estilo de vida del cliente-paciente. 
+    p(data-aos="zoom-in") La mayor parte de la población no cambia un comportamiento crónico siguiendo un patrón de cambio lineal, a partir del estadio de pre contemplación hasta el mantenimiento, tal y como se pensó en su primer instante, el cambio por medio de los estadios involucra un modelo en espiral.
+    p(data-aos="zoom-in") Este es el campo en el cual el nuevo modelo de conducta permanece por un largo lapso de tiempo, estabilizándose dentro del estilo de vida del cliente-paciente. 
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -207,7 +221,7 @@
 
     Separador
     #t_3_3_7.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.3.7. Estrategias para desarrollar la entrevista motivacional
+      h2 3.3.7 Estrategias para desarrollar la entrevista motivacional
 
     p(data-aos="zoom-in") La entrevista motivacional sugerida por Rollcnick y Miller indica abordar la cuestión de falta de motivación en esos sujetos en la etapa de precontemplación o contemplación. Se siguen numerosas tácticas motivacionales que se demostró son eficaces para ocasionar el cambio de conducta, estas tácticas son:
 
@@ -216,7 +230,7 @@
         .col-md-9.col-12.mb-4.mb-md-0
           p Se debe dar información clara y objetiva, indicarle precisamente que debería dejar de consumir. Es elemental que identifique el problema y los peligros que tiene, explicarle ya que la necesidad de cambio y facilitarle la alternativa del cambio terapéutico.
 
-      .row(titulo="Borrar Obstáculos")
+      .row(titulo="Borrar obstáculos")
         .col-md-9.col-12.mb-4.mb-md-0
           p Se debe facilitar que acuda a las intervenciones, que no logre situar excusas para no realizarlo. Lograr una participación breve y en un lapso de tiempo corto, en lugar de una lista de espera extensa, permite que asistan y se impliquen en el procedimiento.
       
@@ -236,7 +250,7 @@
         .col-md-9.col-12.mb-4.mb-md-0
           p Es primordial que el terapeuta de retroalimentación continua al paciente, que devuelva la información que recoge respecto a cómo lo ve, su situación de hoy, sus peligros y sus probables secuelas.
 
-      .row(titulo="Clarificar Fines")
+      .row(titulo="Clarificar fines")
         .col-md-9.col-12.mb-4.mb-md-0
           p Si el individuo no posee claras las metas la retroalimentación fracasa o no es suficiente. Por esto las metas que se planteen tienen que ser realistas, alcanzables, y aceptadas por el paciente. En caso opuesto no los verá viables, los rechazará de forma directa o no los cumplirá, con lo cual no agrega ningún aspecto motivacional de su parte.
 

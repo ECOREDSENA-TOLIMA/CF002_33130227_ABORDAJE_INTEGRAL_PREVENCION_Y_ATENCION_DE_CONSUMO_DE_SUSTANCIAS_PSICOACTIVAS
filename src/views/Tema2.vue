@@ -169,7 +169,7 @@
         |	Capacitación a papás, madres, cuidadores, chicos y chicas para los cambios de concepciones y prácticas que producen maneras de interrelaciones violentas. 
       li(data-aos="zoom-in")
         i.fas.fa-atom 
-        |	Valorar de manera integral social y de salud a las familias en situaciones de vulnerabilidad con respuestas para mejorar su calidad de vida y confort.
+        |	Valorar de manera integral, social y de salud a las familias en situaciones de vulnerabilidad con respuestas para mejorar su calidad de vida y confort.
       li(data-aos="zoom-in")
         i.fas.fa-atom 
         |	Desplegar tácticas para minimizar el estigma y autoestigma en madres, papás y cuidadores con problemas, trastornos mentales y consumo de sustancias psicoactivas en todos los ámbitos.
@@ -194,7 +194,7 @@
         |	Crecimiento de habilidades de papás, madres, cuidadores y profesores para el cuidado, crianza y apoyo de jóvenes y adolescentes con trastornos del desarrollo, discapacidad intelectual y psicosocial, en espacios con consumo de sustancias psicoactivas.
       li(data-aos="zoom-in")
         i.fas.fa-atom 
-        |	Formación de jóvenes, adolescentes, papás, madres y cuidadores para el cambio de concepciones y prácticas que producen maneras de colaboraciones violentas. incremento de capacidades de tutores naturales, como profesores, docentes orientadores y líderes comunitarios, que realicen procesos de protección a los adolescentes y jóvenes en grupos de riesgo y en entornos con consumo de sustancias psicoactivas. 
+        |	Formación de jóvenes, adolescentes, papás, madres y cuidadores para el cambio de concepciones y prácticas que producen maneras de colaboraciones violentas. Incremento de capacidades de tutores naturales, como profesores, docentes orientadores y líderes comunitarios, que realicen procesos de protección a los adolescentes y jóvenes en grupos de riesgo y en entornos con consumo de sustancias psicoactivas. 
       li(data-aos="zoom-in")
         i.fas.fa-atom 
         |	Desarrollo de alternativas para atender las características propias de jóvenes y adolescentes, como estilos de personalidad y condiciones de peligro relacionadas a la averiguación de sensaciones e impulsividad. Desarrollo de estrategias de cuidado selectivo e indicado para consumidores no problemáticos orientadas a la disminución de daños asociados al consumo de sustancias psicoactivas. 
@@ -227,7 +227,7 @@
         i.fas.fa-atom 
         |	Crecimiento de tácticas para minimizar el estigma y autoestigma en adultos con inconvenientes o trastornos mentales, y consumo de sustancias psicoactivas.
     
-    p(data-aos="zoom-in") En la siguiente tabla se describe las estrategias y líneas de acción del componente de prevención para esto se hablará del tratamiento que es un grupo de actividades, procedimientos e intervenciones de atención y asistencia basados en las alternativas que arroja la evidencia, para quienes han vivido un trastorno por dependencia a una o varias sustancias, o tienen un patrón de consumo con inconvenientes en ausencia de dependencia.
+    p(data-aos="zoom-in") En la siguiente tabla se describe las estrategias y líneas de acción del componente de prevención, para esto se hablará del tratamiento que es un grupo de actividades, procedimientos e intervenciones de atención y asistencia basados en las alternativas que arroja la evidencia, para quienes han vivido un trastorno por dependencia a una o varias sustancias, o tienen un patrón de consumo con inconvenientes en ausencia de dependencia.
 
     .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-right")
         p.titulo.pb-0.mb-0 <b>Tabla 3.</b> <i>Estrategias y líneas de acción del componente de Prevención </i>
@@ -294,7 +294,7 @@
         h4.mt-3 Concertación
         p Impulso de escenarios de encuentro para la generación y fortalecimiento de redes de apoyo sociales, comunitarias e interculturales, formales e informales para abordar la canalización de servicios de salud y de otros sectores.
 
-    p(data-aos="zoom-in") A continuación, se describe la tabla de estrategias y líneas de acción del componente de reducción de daños y riesgos donde se tratará el tema de disminución de riesgos y daños: actividades orientadas a disminuir los efectos negativos del uso de drogas, los peligros asociados a las actividades de consumo; y favorecer la accesibilidad a la red asistencial de éstos usuarios, incrementando su calidad de vida.
+    p(data-aos="zoom-in") A continuación, se describe la tabla de estrategias y líneas de acción del componente de reducción de daños y riesgos donde se tratará el tema de disminución de riesgos y daños: actividades orientadas a disminuir los efectos negativos del uso de drogas, los peligros asociados a las actividades de consumo; y favorecer la accesibilidad a la red asistencial de estos usuarios, incrementando su calidad de vida.
 
     .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-right")
         p.titulo.pb-0.mb-0 <b>Tabla 4.</b> <i>Estrategias y líneas de acción del componente de Reducción de Daños y Riesgos</i>
@@ -323,11 +323,6 @@
               td.td-uno-table.text-center 
               td.td-dos-table.px-3 
               td.td-dos-table.px-3 1.3 Orientación a las entidades territoriales para impulsar el proceso de certificación de habilitación de servicios para el tratamiento del abuso o la dependencia a sustancias psicoactivas en el marco de la normatividad vigente.
-              td.td-dos-table.px-3 Institucional.
-            tr
-              td.td-uno-table.text-center 
-              td.td-dos-table.px-3 
-              td.td-dos-table.px-3 1.3. Implementación del proceso de habilitación de servicios para la reducción de riesgos y daños asociados al consumo de sustancias psicoactivas.
               td.td-dos-table.px-3 Institucional.
             tr
               td.td-uno-table.text-center 

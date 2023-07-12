@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Tamizaje y atención de personas con riesgo alto frente al consumo, abuso y adicción a SPA',
+      'Tamizaje y atención de personas con riesgo alto frente al consumo, abuso y adicción de SPA',
     descripcionCurso:
       'La atención de personas con riesgo a SPA permite identificar, apropiar e implementar pruebas de tamizaje que posibilitan realizar intervenciones breves, desde la óptica de la promoción de la salud y la prevención de la enfermedad, de tal forma que el trabajador pueda proponer acciones encaminadas a prevenir, reducir y llegado el caso educar sobre el consumo de sustancias psicoactivas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -53,7 +53,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'ASSIST',
+            titulo: '<em>ASSIST</em>',
             hash: 't_1_4',
           },
           {
@@ -63,7 +63,7 @@ export default {
           },
           {
             numero: '1.6',
-            titulo: 'AUDIT',
+            titulo: '<em>AUDIT</em>',
             hash: 't_1_6',
           },
         ],
@@ -120,13 +120,18 @@ export default {
             hash: 't_3_2',
           },
           {
+            numero: '3.3',
+            titulo: 'Entrevista motivacional de intervención',
+            hash: 't_3_3',
+          },
+          {
             numero: '3.3.1',
             titulo: 'Objetivo',
             hash: 't_3_3_1',
           },
           {
             numero: '3.3.2',
-            titulo: 'Rueda de Cambio',
+            titulo: 'Rueda de cambio',
             hash: 't_3_3_2',
           },
           {
@@ -257,7 +262,7 @@ export default {
       significado: 'etapa',
     },
     {
-      termino: 'APGAR',
+      termino: '<em>APGAR</em>',
       significado: 'prueba de tamizaje que evalúa la familia como sistema.',
     },
     {

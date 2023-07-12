@@ -38,7 +38,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/img3.svg", alt="")
         h4.mt-3 Autoreporte
-        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: ASSIST, CAGE, TWEAK, AUDIT, DAS-10, y el CRAFTT.
+        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: #[i ASSIST], #[i CAGE], #[i TWEAK], #[i AUDIT], DAS-10, y el #[i CRAFTT].
 
     .row.justify-content-center.align-items-center.mt-5 
       .col-12(data-aos="fade-left")
@@ -64,16 +64,16 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Debe ser breve")
             .col
-              p Debe ser breve; un mínimo de 5 preguntas y un máximo de 10 de manera que permita obtener información en poco tiempo.
+              p Un mínimo de 5 preguntas y un máximo de 10 de manera que permita obtener información en poco tiempo.
           .row(numero="2" titulo="Flexibilidad")
             .col
-              p Flexibilidad; de manera que se pueda adaptar fácilmente a las situaciones y características del individuo.
+              p De manera que se pueda adaptar fácilmente a las situaciones y características del individuo.
           .row(numero="3" titulo="Debe ser fácil")
             .col
-              p Debe ser fácil de aplicar y en un lenguaje de fácil comprensión para el entrevistado.
-          .row(numero="4" titulo="Indicar sobre consumo")
+              p De aplicar y en un lenguaje de fácil comprensión para el entrevistado.
+          .row(numero="4" titulo="Debe indicar sobre consumo")
             .col
-              p Debe indicar sobre consumo de sustancias, alcohol u otras drogas que inciden en la problemática.
+              p De sustancias, alcohol u otras drogas que inciden en la problemática.
       .col-6
         LineaTiempoD.color-primario
           .row(numero="5" titulo="Necesidad de otra prueba")
@@ -134,7 +134,7 @@
         figure(data-aos="zoom-out")
           img(src="@/assets/curso/temas/tema1/img8.png", alt="")
       .col-6
-        p(data-aos="zoom-in") Es importante mencionar que esta escala establece una probabilidad, es decir cada respuesta afirmativa en la parte B vale un punto y una puntuación mayor a dos equivale a un diagnóstico positivo, lo cual indica la necesidad de realizar una evaluación adicional. El criterio diagnóstico está establecido en dos categorías tal como lo estipula el DSM-V (Manual diagnóstico de trastornos y enfermedades mentales)
+        p(data-aos="zoom-in") Es importante mencionar que esta escala establece una probabilidad, es decir, cada respuesta afirmativa en la parte B vale un punto y una puntuación mayor a dos equivale a un diagnóstico positivo, lo cual indica la necesidad de realizar una evaluación adicional. El criterio diagnóstico está establecido en dos categorías tal como lo estipula el DSM-V (Manual diagnóstico de trastornos y enfermedades mentales)
 
     TabsC.color-acento-contenido.mt-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Categoría I . Abuso del alcohol")
@@ -186,7 +186,7 @@
 
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 1.4 ASSIST
+      h2 1.4 #[i ASSIST]
 
     p(data-aos="zoom-in") Un cuestionario desarrollado por la Organización Mundial de la Salud es una escala dirigida a adultos, ha sido validada y traducida en varios idiomas y culturas, consta de 8 ítems que evalúan el consumo riesgoso, nocivo y dependiente, incluye drogas inyectables, se utiliza en atención primaria en salud mental y se aplica por medio de entrevista, en algunos lugares lo han escalado a una herramienta virtual de auto aplicación lo que genera mayor confiabilidad pues el entrevistado no encuentra ningún tipo de prevención y es más sincero en las respuestas.
     p(data-aos="zoom-in") Este instrumento permite que el examinador conozca información relevante del encuestado en cuanto a uso y abuso de sustancias psicoactivas (legales e ilegales) se refiere, tales como: 
@@ -217,7 +217,7 @@
     
     p(data-aos="zoom-in") Es un instrumento dirigido a adultos, adolescentes y niños que consta de 10 preguntas, que evalúan la dinámica familiar en diferentes contextos, puede ser auto aplicado o por medio de entrevista.
     p(data-aos="zoom-in") Fue desarrollado con el objetivo de que el médico familiar adquiera información relevante de sus consultantes relacionada a la funcionalidad de sus familias, posee cinco reactivos que se pueden aplicar en una entrevista breve a distintos miembros de la familia y en diferentes tiempos a fin de observar las alteraciones. Calcula la funcionalidad de la familia de acuerdo al grado de satisfacción del evaluado, por tanto, permite detectar si el grupo familiar es un recurso de apoyo para el paciente o sí por el contrario puede llegar a contribuir al desarrollo y evolución de su enfermedad.
-    p(data-aos="zoom-in") El APGAR en el cuidado primario de la salud juega un papel importante teniendo en cuenta que la familia como sistema constituye un rol primordial, tanto en la generación de la enfermedad como en la rehabilitación de la misma dependiendo del grado de funcionalidad o disfuncionalidad. Es así como el APGAR familiar que fue diseñado por el Doctor Gabriel Smilkestein pretende evaluar a la familia como sistema, para conocer o identificar familias en riesgo; este cuestionario ha sido validado en diferentes grupos poblacionales de Norteamérica, Asia y Sudamérica arrojando alta relación con pruebas más especializadas.
+    p(data-aos="zoom-in") El APGAR en el cuidado primario de la salud juega un papel importante, teniendo en cuenta que la familia como sistema constituye un rol primordial, tanto en la generación de la enfermedad como en la rehabilitación de la misma, dependiendo del grado de funcionalidad o disfuncionalidad. Es así como el APGAR familiar que fue diseñado por el Doctor Gabriel Smilkestein pretende evaluar a la familia como sistema, para conocer o identificar familias en riesgo; este cuestionario ha sido validado en diferentes grupos poblacionales de Norteamérica, Asia y Sudamérica, arrojando alta relación con pruebas más especializadas.
     p(data-aos="zoom-in") El instrumento evalúa los siguientes componentes esenciales de la función familiar que son:
 
     .row.justify-content-center.mt-5
@@ -260,7 +260,7 @@
 
     Separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 1.6 AUDIT
+      h2 1.6 #[i AUDIT]
       
     p(data-aos="zoom-in") El nombre del <b><i>AUDIT alcohol consumption questions (AUDIT-C)</i></b>, es una herramienta que fue desarrollada por la OMS. Es una escala dirigida a adultos y adolescentes y ha sido validada en diferentes idiomas; consta de 10 ítems los cuales se enfocan en evaluar los siguientes aspectos: 
     
@@ -285,7 +285,7 @@
             p.mb-0(data-aos="zoom-in") <b>Para tener en cuenta</b>
             br
             br
-            p.mb-0(data-aos="zoom-in") <b>AUDIT</b>: Es una herramienta de fácil aplicación no es invasiva ha sido estimado como el mejor instrumento a la hora de medir problemas asociados al consumo de alcohol en el escenario de la atención primaria.
+            p.mb-0(data-aos="zoom-in") <b><i>AUDIT</i></b>: Es una herramienta de fácil aplicación no es invasiva ha sido estimado como el mejor instrumento a la hora de medir problemas asociados al consumo de alcohol en el escenario de la atención primaria.
 
     p(data-aos="zoom-in") Las anteriores pruebas de tamizaje son las más utilizadas, aunque en el siguiente cuadro se presentan otras que también tiene como finalidad detectar el consumo de sustancias o la tendencia a ser consumidor.
 
@@ -297,14 +297,14 @@
           thead
             tr
               th INSTRUMENTO
-              th ASSIST (WHO)
-              th AUDIT (WHO)
-              th CAGE
+              th #[i ASSIST (WHO)]
+              th #[i AUDIT (WHO)]
+              th #[i CAGE]
           tbody
             tr
               td.td-uno-table.text-center #[strong Dirigido a]
               td.td-dos-table.px-3 Adultos. <br>(Ha sido validado en  muchas culturas e  idiomas).
-              td.td-dos-table.px-3 Adultos.<br> Adolescentes<br> (Ha sido validado en muchas  culturas e idiomas).
+              td.td-dos-table.px-3 Adultos.<br> Adolescentes.<br> (Ha sido validado en muchas  culturas e idiomas).
               td.td-dos-table.px-3 Adultos.<br> Jóvenes mayores de 16  años.
             tr
               td.td-uno-table.text-center #[strong # Preguntas]
@@ -314,12 +314,12 @@
             tr
               td.td-uno-table.text-center #[strong ¿Qué evalúa?]
               td.td-dos-table.px-3 Consumo riesgoso, nocivo y dependencia <br>(Incluye drogas  inyectables).
-              td.td-dos-table.px-3 Consumo problemático y dependencia de alcohol. <br>Es usado como examen  previo para determinar  personas que requieren  Tamizaje e Intervención breve.
-              td.td-dos-table.px-3 Consumo riesgoso de alcohol.<br>Necesidad de suspender el consumo, dependencia y Problemas asociados.
+              td.td-dos-table.px-3 Consumo problemático y dependencia de alcohol. <br>Es usado como examen  previo para determinar  personas que requieren tamizaje e intervención breve.
+              td.td-dos-table.px-3 Consumo riesgoso de alcohol.<br>Necesidad de suspender el consumo, dependencia y problemas asociados.
             tr
               td.td-uno-table.text-center #[strong ¿En qué contexto?]
               td.td-dos-table.px-3 Atención primaria
-              td.td-dos-table.px-3 Diferentes contextos <br>-AUDIT C- Atención primaria  (3 preguntas).
+              td.td-dos-table.px-3 Diferentes contextos <br>-<i>AUDIT C-</i> Atención primaria  (3 preguntas).
               td.td-dos-table.px-3 Atención primaria
             tr
               td.td-uno-table.text-center #[strong Forma de  aplicación]
@@ -330,9 +330,9 @@
           thead
             tr
               th INSTRUMENTO
-              th TWEAK
+              th #[i TWEAK]
               th DAST-10
-              th CRAFFT
+              th #[i CRAFFT]
           tbody
             tr
               td.td-uno-table.text-center #[strong Dirigido a]
@@ -346,7 +346,7 @@
               td.td-uno-table.text-center #[strong 6]
             tr
               td.td-uno-table.text-center #[strong ¿Qué evalúa?]
-              td.td-dos-table.px-3 Consumo indebido de alcohol durante el embarazo (Basado en el CAGE).<br>Cantidad de tragos que se toleran, dependencia y problemas asociados.
+              td.td-dos-table.px-3 Consumo indebido de alcohol durante el embarazo (Basado en el #[i CAGE]).<br>Cantidad de tragos que se toleran, dependencia y problemas asociados.
               td.td-dos-table.px-3 Identifica consumo<br>problemático durante el último año.
               td.td-dos-table.px-3 Abuso de alcohol y drogas, conducta riesgosa y consecuencias del uso.
             tr
@@ -374,7 +374,7 @@
               td.td-uno-table #[strong 10]
             tr
               td.td-uno-table.text-center #[strong ¿Qué evalúa?]
-              td.td-dos-table.px-3 Adaptación, Participación, Gradiente de recurso personal, Afecto, y Recursos
+              td.td-dos-table.px-3 Adaptación, participación, gradiente de recurso personal, afecto, y recursos
             tr
               td.td-uno-table.text-center #[strong ¿En qué contexto?]
               td.td-dos-table.px-3 Diferentes contextos.
