@@ -169,7 +169,7 @@
         |	Capacitación a papás, madres, cuidadores, chicos y chicas para los cambios de concepciones y prácticas que producen maneras de interrelaciones violentas. 
       li(data-aos="zoom-in")
         i.fas.fa-atom 
-        |	Valorar de manera integral, social y de salud a las familias en situaciones de vulnerabilidad con respuestas para mejorar su calidad de vida y confort.
+        |	Valorar de manera integral, social y de salud a las familias en situaciones de vulnerabilidad con respuestas para mejorar su calidad de vida y #[i confort].
       li(data-aos="zoom-in")
         i.fas.fa-atom 
         |	Desplegar tácticas para minimizar el estigma y autoestigma en madres, papás y cuidadores con problemas, trastornos mentales y consumo de sustancias psicoactivas en todos los ámbitos.
@@ -357,7 +357,7 @@
       h2 2.5  Exigencia y garantía de derechos en salud para personas consumidoras de SPA 
 
     p(data-aos="zoom-in") Busca que le garanticen en las políticas públicas, tomando en cuenta los intereses y obligaciones particulares, territoriales y poblacionales, promoviendo el control social ejercido por la ciudadanía y promoviendo la legitimidad con el protagonismo de la sociedad, en una interacción de concertación y creación persistente entre el régimen y la población. Expone condiciones, insumos, procesos y ocupaciones para el diseño, utilización, seguimiento y evaluación de políticas, planes, programas, proyectos, alternativas e intervenciones que viabilicen la atención integral poblacional en peligro o con consumo incierto de sustancias psicoactivas, familias y sociedades.
-    p(data-aos="zoom-in") Los individuos consumidores de SPA consiguen mediante la Ley 1566 de 2012, reconocimiento, de una sección, que el consumo, abuso y adicción a sustancias psicoactivas, lícitas o ilícitas, es un asunto de salud pública y confort del núcleo familiar, la sociedad y las personas, que solicita atención integral por parte del Estado, y de otra, el derecho del individuo que padezca trastornos mentales o cualquier otra patología derivada del consumo, abuso y adicción a tales sustancias, a ser revisada en forma integral por las entidades que componen el sistema general de estabilidad social en salud, conforme a la normatividad vigente, a las políticas públicas nacionales en salud psicológica y de reducción del consumo de sustancias psicoactivas y su efecto, amparadas por el Ministerio de Salud y Defensa Social.
+    p(data-aos="zoom-in") Los individuos consumidores de SPA consiguen mediante la Ley 1566 de 2012, reconocimiento, de una sección, que el consumo, abuso y adicción a sustancias psicoactivas, lícitas o ilícitas, es un asunto de salud pública y #[i confort] del núcleo familiar, la sociedad y las personas, que solicita atención integral por parte del Estado, y de otra, el derecho del individuo que padezca trastornos mentales o cualquier otra patología derivada del consumo, abuso y adicción a tales sustancias, a ser revisada en forma integral por las entidades que componen el sistema general de estabilidad social en salud, conforme a la normatividad vigente, a las políticas públicas nacionales en salud psicológica y de reducción del consumo de sustancias psicoactivas y su efecto, amparadas por el Ministerio de Salud y Defensa Social.
     p(data-aos="zoom-in") Para ampliar más información sobre la Ley, puede acceder al siguiente enlace:
 
     .row.justify-content-center.align-items-center.mt-5

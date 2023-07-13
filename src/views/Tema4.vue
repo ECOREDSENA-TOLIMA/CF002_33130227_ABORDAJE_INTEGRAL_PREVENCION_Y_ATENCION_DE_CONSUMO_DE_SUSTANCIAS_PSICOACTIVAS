@@ -27,13 +27,13 @@
     .row.mt-5
       .col-6
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Entorno Hogar")
+          .row(numero="1" titulo="Entorno hogar")
             .col
               p Solicita, actividades e intervenciones que construyan las habilidades de papás, madres y cuidadores primarios en pautas de crianza, funcionamiento de emociones, vínculo de respeto y comunicación asertiva, escucha activa y administración de conflictos, fundamentadas en la identificación del otro y el equilibrio de género.
           .row(numero="2" titulo="Entorno educativo")
             .col
               p Los hechos y actuaciones que realiza la sociedad educativa tienen que fomentar la convivencia, el reconocimiento y respeto de la variedad, las pautas de crianza, el desarrollo de planes o proyectos de vida con sentido, la averiguación de ocupaciones estudiantiles y la prevención de la deserción estudiantil. 
-          .row(numero="3" titulo="Entorno Laboral")
+          .row(numero="3" titulo="Entorno laboral")
             .col
               p Las actuaciones estarán orientadas hacia el trabajo cooperativo, en el respeto, reducción del estigma y autoestigma, reconocimiento e implementación de las jerarquías, exactitud en los papeles y verificación de labores y promoción de tiempo en familia. Evitar condiciones de estrés y de exclusión de cualquier tipo.
       .col-6

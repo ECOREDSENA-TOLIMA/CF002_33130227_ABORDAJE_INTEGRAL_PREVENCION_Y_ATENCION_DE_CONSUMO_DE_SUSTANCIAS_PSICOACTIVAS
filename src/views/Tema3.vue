@@ -159,10 +159,10 @@
     p(data-aos="zoom-in") Aunque la persona se haya decidido a comenzar el cambio, la ambivalencia no suele estar plenamente resuelta. Se ha de sortear que las prisas y los triunfos arrojen el proceso natural y se acuerda hacer una evaluación sobre el tamaño y el grado de compromiso para el cambio:
 
     .row.justify-content-center.align-items-center.mt-5 
-      .col-12.col-md-10(data-aos="fade-left")
+      .col-12.col-md-12(data-aos="fade-left")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img16.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img5.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             p.mb-2(data-aos="zoom-in") <b>¿Existe una evaluación realista, por parte del individuo, de las dificultades?</b>
@@ -227,35 +227,35 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Ofrecer información y aconsejar")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Se debe dar información clara y objetiva, indicarle precisamente que debería dejar de consumir. Es elemental que identifique el problema y los peligros que tiene, explicarle ya que la necesidad de cambio y facilitarle la alternativa del cambio terapéutico.
 
       .row(titulo="Borrar obstáculos")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Se debe facilitar que acuda a las intervenciones, que no logre situar excusas para no realizarlo. Lograr una participación breve y en un lapso de tiempo corto, en lugar de una lista de espera extensa, permite que asistan y se impliquen en el procedimiento.
       
       .row(titulo="Ofrecer distintas posibilidades al paciente para que logre escoger")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Es fundamental hacerle ver que tiene numerosas posibilidades accesibles y que él puede libremente escoger una de ellas. La sensación de que ha escogido por él mismo sin coacciones, y sin influencias externas incrementa su motivación personal. Esto le permite mejorar la ayuda al procedimiento y su adhesión a él.
 
       .row(titulo="Reducir los componentes que hacen que el comportamiento de consumir sea deseable")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p El comportamiento de consumo se conserva por secuelas positivas. Se debe detectar estas secuelas para eliminarlas o disminuirlas. Entre los métodos que tienen la posibilidad de usar para reducirlas permanecen, la toma de conciencia de sus secuelas dañinas.
 
       .row(titulo="Impulsar la empatía")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p La empatía, la escucha reflexiva, la función de entenderlo favorecen que el paciente presente menores niveles de “resistencia” al cambio.
 
       .row(titulo="Ofrecer retroalimentación")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Es primordial que el terapeuta de retroalimentación continua al paciente, que devuelva la información que recoge respecto a cómo lo ve, su situación de hoy, sus peligros y sus probables secuelas.
 
       .row(titulo="Clarificar fines")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Si el individuo no posee claras las metas la retroalimentación fracasa o no es suficiente. Por esto las metas que se planteen tienen que ser realistas, alcanzables, y aceptadas por el paciente. En caso opuesto no los verá viables, los rechazará de forma directa o no los cumplirá, con lo cual no agrega ningún aspecto motivacional de su parte.
 
       .row(titulo="Ayuda activa")
-        .col-md-9.col-12.mb-4.mb-md-0
+        .col-md-12.col-12.mb-4.mb-md-0
           p Pese a que constantemente es el paciente quien dictamina o no modificar, realizar o no un procedimiento, es fundamental el papel del terapeuta. Una vez que el paciente no acude al procedimiento, hacerle una llamada, directa o por medio de otra persona, consultar pues no ha acudido, contactarlo de todas maneras, esto incrementa la probabilidad de que vuelva.
 
 </template>
