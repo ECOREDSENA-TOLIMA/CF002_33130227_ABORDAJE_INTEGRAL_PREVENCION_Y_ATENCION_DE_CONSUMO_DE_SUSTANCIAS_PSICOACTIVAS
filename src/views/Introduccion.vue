@@ -14,7 +14,7 @@
     .col-12.mt-2(data-aos="fade-up")
       figure.mt-0
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/NaoMfuuuJks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/m9K2KDgv1LM" title="Tamizaje y atención de personas con riesgo alto frente al consumo, abuso y adicción de SPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
   
     
 </template>
