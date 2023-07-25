@@ -48,7 +48,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Escala Carlos CRAFFT',
+            titulo: 'Escala Carlos <em>CRAFFT</em>',
             hash: 't_1_3',
           },
           {
@@ -58,7 +58,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: 'APGAR FAMILIAR',
+            titulo: '<em>APGAR</em> FAMILIAR',
             hash: 't_1_5',
           },
           {

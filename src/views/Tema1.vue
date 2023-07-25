@@ -38,7 +38,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/img3.svg", alt="")
         h4.mt-3 Autoreporte
-        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: #[i ASSIST], #[i CAGE], #[i TWEAK], #[i AUDIT], DAS-10, y el #[i CRAFTT].
+        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: #[i ASSIST], #[i CAGE], #[i TWEAK], #[i AUDIT], #[i DAS-10], y el #[i CRAFTT].
 
     .row.justify-content-center.align-items-center.mt-5 
       .col-12(data-aos="fade-left")
@@ -125,7 +125,7 @@
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 1.3 Escala Carlos CRAFFT
+      h2 1.3 Escala Carlos #[i CRAFFT]
     
     p(data-aos="zoom-in") Es una escala dirigida a población adolescente que consta de 6 preguntas dirigidas a evaluar el abuso de alcohol y drogas, conductas de riesgos y consecuencias del consumo, se aplica en diferentes contextos a manera de entrevista especialmente en consultorios médicos de ayuda a pacientes con problemas conductuales, ha sido aceptado ampliamente. 
     
@@ -213,11 +213,11 @@
 
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 1.5 APGAR FAMILIAR
+      h2 1.5 #[i APGAR] FAMILIAR
     
     p(data-aos="zoom-in") Es un instrumento dirigido a adultos, adolescentes y niños que consta de 10 preguntas, que evalúan la dinámica familiar en diferentes contextos, puede ser auto aplicado o por medio de entrevista.
     p(data-aos="zoom-in") Fue desarrollado con el objetivo de que el médico familiar adquiera información relevante de sus consultantes relacionada a la funcionalidad de sus familias, posee cinco reactivos que se pueden aplicar en una entrevista breve a distintos miembros de la familia y en diferentes tiempos a fin de observar las alteraciones. Calcula la funcionalidad de la familia de acuerdo al grado de satisfacción del evaluado, por tanto, permite detectar si el grupo familiar es un recurso de apoyo para el paciente o sí por el contrario puede llegar a contribuir al desarrollo y evolución de su enfermedad.
-    p(data-aos="zoom-in") El APGAR en el cuidado primario de la salud juega un papel importante, teniendo en cuenta que la familia como sistema constituye un rol primordial, tanto en la generación de la enfermedad como en la rehabilitación de la misma, dependiendo del grado de funcionalidad o disfuncionalidad. Es así como el APGAR familiar que fue diseñado por el Doctor Gabriel Smilkestein pretende evaluar a la familia como sistema, para conocer o identificar familias en riesgo; este cuestionario ha sido validado en diferentes grupos poblacionales de Norteamérica, Asia y Sudamérica, arrojando alta relación con pruebas más especializadas.
+    p(data-aos="zoom-in") El #[i APGAR] en el cuidado primario de la salud juega un papel importante, teniendo en cuenta que la familia como sistema constituye un rol primordial, tanto en la generación de la enfermedad como en la rehabilitación de la misma, dependiendo del grado de funcionalidad o disfuncionalidad. Es así como el #[i APGAR] familiar que fue diseñado por el Doctor Gabriel Smilkestein pretende evaluar a la familia como sistema, para conocer o identificar familias en riesgo; este cuestionario ha sido validado en diferentes grupos poblacionales de Norteamérica, Asia y Sudamérica, arrojando alta relación con pruebas más especializadas.
     p(data-aos="zoom-in") El instrumento evalúa los siguientes componentes esenciales de la función familiar que son:
 
     .row.justify-content-center.mt-5
@@ -237,7 +237,7 @@
             .col-md-6.mb-4.mb-md-0
               p Determina el nivel de dominio de cada uno de los sujetos en el grupo familiar. La participación e integración se hace relevante dentro del colectivo. 
 
-          .row(numero="G" titulo="GROWON (CRECIMIENTO)")
+          .row(numero="G" titulo="<i>GROWON</i> (CRECIMIENTO)")
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img13.png', alt='')
@@ -322,7 +322,7 @@
               td.td-dos-table.px-3 Diferentes contextos <br>-<i>AUDIT C-</i> Atención primaria  (3 preguntas).
               td.td-dos-table.px-3 Atención primaria
             tr
-              td.td-uno-table.text-center #[strong Forma de  aplicación]
+              td.td-uno-table.text-center #[strong Forma de aplicación]
               td.td-dos-table.px-3 Por medio de  entrevista.
               td.td-dos-table.px-3 Auto aplicado.<br>Entrevista.<br>PC.
               td.td-dos-table.px-3 Auto aplicado.<br>Entrevista.
@@ -331,7 +331,7 @@
             tr
               th INSTRUMENTO
               th #[i TWEAK]
-              th DAST-10
+              th #[i DAST-10]
               th #[i CRAFFT]
           tbody
             tr
@@ -364,7 +364,7 @@
           thead
             tr
               th(style="width:25%") INSTRUMENTO
-              th APGAR FAMILIAR
+              th #[i APGAR] FAMILIAR
           tbody
             tr
               td.td-uno-table.text-center #[strong Dirigido a]
@@ -380,7 +380,7 @@
               td.td-dos-table.px-3 Diferentes contextos.
             tr
               td.td-uno-table.text-center #[strong Forma de  aplicación]
-              td.td-dos-table.px-3 Auto aplicado.<br>Entrevista.<br>PC.
+              td.td-dos-table.px-3 Auto aplicado.<br>Entrevista.
   
 
 </template>
