@@ -38,7 +38,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/img3.svg", alt="")
         h4.mt-3 Autoreporte
-        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: #[i ASSIST], #[i CAGE], #[i TWEAK], #[i AUDIT], #[i DAS-10], y el #[i CRAFTT].
+        p Este tipo de pruebas permiten detectar el consumo por medio de entrevistas y cuestionarios aplicados como: #[i ASSIST], #[i CAGE], #[i TWEAK], #[i AUDIT], #[i DAST-10], y el #[i CRAFTT].
 
     .row.justify-content-center.align-items-center.mt-5 
       .col-12(data-aos="fade-left")
@@ -374,7 +374,7 @@
               td.td-uno-table #[strong 10]
             tr
               td.td-uno-table.text-center #[strong ¿Qué evalúa?]
-              td.td-dos-table.px-3 Adaptación, participación, gradiente de recurso personal, afecto, y recursos
+              td.td-dos-table.px-3 Adaptación, participación, gradiente de recurso personal, afecto, y recursos.
             tr
               td.td-uno-table.text-center #[strong ¿En qué contexto?]
               td.td-dos-table.px-3 Diferentes contextos.

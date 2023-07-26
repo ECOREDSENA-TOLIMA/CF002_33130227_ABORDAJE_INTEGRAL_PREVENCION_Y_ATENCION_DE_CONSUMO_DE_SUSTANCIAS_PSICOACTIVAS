@@ -7,6 +7,8 @@
         span 2
       h1 Prevención y atención del consumo de SPA 
 
+    p(data-aos="zoom-in") Para facilitar la comprensión de la temática, ver la siguiente presentación:
+
     TabsC.color-acento-contenido.mt-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="1")
         .row.align-items-center
@@ -322,12 +324,12 @@
             tr
               td.td-uno-table.text-center 
               td.td-dos-table.px-3 
-              td.td-dos-table.px-3 1.3 Orientación a las entidades territoriales para impulsar el proceso de certificación de habilitación de servicios para el tratamiento del abuso o la dependencia a sustancias psicoactivas en el marco de la normatividad vigente.
+              td.td-dos-table.px-3 1.3 Implementación del proceso de habilitación de servicios para la reducción de riesgos y daños asociados al consumo de sustancias psicoactivas. 
               td.td-dos-table.px-3 Institucional.
             tr
               td.td-uno-table.text-center 
               td.td-dos-table.px-3 
-              td.td-dos-table.px-3 1.4 Implementación del plan nacional de respuesta integral al consumo de alcohol
+              td.td-dos-table.px-3 1.4 Implementación del plan nacional de respuesta integral al consumo de alcohol.
               td.td-dos-table.px-3 Familiar. <br>Educativo. <br>Comunitario.<br>Laboral.<br>Institucional.
 
     Separador
